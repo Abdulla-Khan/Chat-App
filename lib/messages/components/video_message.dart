@@ -1,7 +1,7 @@
 import 'package:chat_app/models/ChatMessage.dart';
 import 'package:flutter/material.dart';
 
-import '../../constants.dart';
+import '../../constants/constants.dart';
 
 class VideoMessage extends StatelessWidget {
   const VideoMessage({Key? key, required this.message}) : super(key: key);

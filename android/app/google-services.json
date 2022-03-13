@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "978422117517",
+    "project_id": "otp-auth-10cf1",
+    "storage_bucket": "otp-auth-10cf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978422117517:android:8ed661a2b21a3ba42a5ec4",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978422117517-s3idi1ch847h9clcq9btv9tkmnh01kg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "ab5f94a8f971f295c40b2e7b50397f299d5c38f4"
+          }
+        },
+        {
+          "client_id": "978422117517-0ehstdfhdrhtefqc669om4ccrss4vr9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKEfr_YtpwR4CMtyMvId9B9yMlAyWCvT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978422117517-0ehstdfhdrhtefqc669om4ccrss4vr9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

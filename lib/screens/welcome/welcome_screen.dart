@@ -1,4 +1,4 @@
-import 'package:chat_app/constants.dart';
+import 'package:chat_app/constants/constants.dart';
 import 'package:chat_app/screens/signup/signin.dart';
 import 'package:flutter/material.dart';
 
@@ -46,7 +46,7 @@ class _WelcomePageState extends State<WelcomePage> {
           ),
           FittedBox(
             child: TextButton(
-                onPressed: () => Navigator.push(
+                onPressed: () => Navigator.pushReplacement(
                     context, MaterialPageRoute(builder: (_) => SignIn())),
                 child: Row(
                   children: [
